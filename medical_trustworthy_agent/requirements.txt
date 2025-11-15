@@ -1,0 +1,21 @@
+# --- Core ---
+streamlit
+python-dotenv
+
+# --- LangChain Core ---
+langchain
+langchain-community
+langchain-core
+
+# --- Vector DB (FAISS) ---
+faiss-cpu
+
+# --- Embeddings ---
+sentence-transformers
+transformers
+torch
+
+# --- Optional utilities ---
+pypdf
+numpy
+scikit-learn

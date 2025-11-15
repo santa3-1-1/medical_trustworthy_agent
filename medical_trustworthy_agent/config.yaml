@@ -1,0 +1,7 @@
+# config.yaml
+retriever_model: sentence-transformers/all-MiniLM-L6-v2
+reasoner_model: "facebook/opt-350m"
+alpha: 0.6
+threshold: 0.7
+knowledge_dir: knowledge_dir
+top_k: 3
